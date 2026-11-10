@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ohsnap": {
+      "url": "https://mcp.ohsnap.io/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:OHSNAP_MCP_KEY}"
+      }
+    }
+  }
+}
