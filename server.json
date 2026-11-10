@@ -3,8 +3,12 @@
   "name": "io.ohsnap/mcp",
   "title": "OhSnap uptime monitoring",
   "description": "Check if a website is down, add websites to monitor, read outage history and send test alerts.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://ohsnap.io/mcp/",
+  "repository": {
+    "url": "https://github.com/ohsnap-io/ohsnap-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://ohsnap.io/android-chrome-512x512.png",
